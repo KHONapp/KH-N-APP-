@@ -25,4 +25,12 @@ With the time spent with each companion, users will see significant changes in t
 ![evo](https://github.com/KHONapp/KHON-APP/assets/154311216/47ad13d0-20c8-4e0a-9223-50494c3d2887)
 
 
+Rewards will be distributed through checkpoints to ensure the fairness of **Khôn**. Daily to weekly tasks, for example: Finish the first minigame. Talk to your character for 3,5,7 days. Daily feeding, interactions. All of these will be recorded and rewards (as previously mentioned) will be delivered as in-game items, in-game currency, foods etc. The more time users spend with each companion and the more they communicate with them, new checkpoints will be unlocked through the level of happiness, satisfactions and intelligence of the character. The higher the level, the better the rewards, the rarer the NFT.
+
+
+
+
+
+
+![STAYTUNED](https://github.com/KHONapp/KHON-APP/assets/154311216/296e92fd-d24a-4f27-8375-13e921c67be3)
 
