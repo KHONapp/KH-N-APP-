@@ -24,3 +24,5 @@ With the time spent with each companion, users will see significant changes in t
 
 ![evo](https://github.com/KHONapp/KHON-APP/assets/154311216/47ad13d0-20c8-4e0a-9223-50494c3d2887)
 
+
+
